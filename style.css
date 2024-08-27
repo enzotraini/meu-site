@@ -1,0 +1,37 @@
+body {
+    background: rgb(138, 84, 189);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    color: antiquewhite;
+}
+header {
+    text-align: center;
+    height: 100%;
+    font-size: 20px;
+    padding: 5%;
+    
+}
+
+section {
+    background: antiquewhite;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(8, 8, 8);
+}
+
+footer {
+    padding: 5%;
+    text-align: center;
+    font-style: italic;
+    color: antiquewhite;
+}
+
+div#res {
+    padding: 15px;
+}
